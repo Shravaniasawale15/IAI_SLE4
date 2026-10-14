@@ -1,5 +1,5 @@
 # IAI_SLE4
-# SLE-4: Final Viva & Architecture Decision Record (ADR)
+# SLE-4: Architecture Decision Record (ADR)
 
 **Course:** 02AML204 – Introduction to Artificial Intelligence
 **PRN:** 25UAM021
